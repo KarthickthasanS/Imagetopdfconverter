@@ -1,2 +1,1 @@
-# Imagetopdfconverter
-Image to pdf converter
+This codes will converts  the single or multiple images into PDF. it can accepts the file extensions like jpeg, png. And also i used tkinter in order to provide Gui and also we use pillow package in order to convert it into the another file format which helps to convert the images into PDF  
